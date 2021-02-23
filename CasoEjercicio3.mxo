@@ -1,0 +1,490 @@
+  **MX-PC 1.68e** Job started on 12/16/20 at 18:37:51
+ 
+ 
+ !Mx Frontend Auto-generated Script. ver 1.0
+ !Created at 18:37:51 on 16 Dec 2020 by
+ !SmartUser
+ ! -------------- Group ID 1----------------
+ MxPathDiagram1
+ 
+ 
+ The following MX script lines were read for group    1
+ 
+ MXPATHDIAGRAM1
+ NGroups=1
+ #include C:\aaa\IglesiasVazquez2001_TOTAL_MX (1).dat
+  
+ Note: Opening #include file   1 C:\aaa\IglesiasVazquez2001_TOTAL_MX (1).dat 
+  
+ Data Ninput=30 Nobservations=176
+ KMatrix
+ 1
+ 0.0641	1																											
+ 0.0365	0.7019	1																										
+ 0.0247	0.6687	0.6375	1																									
+ 0.0181	0.4124	0.3446	0.4567	1																								
+ 0.0196	0.4758	0.4896	0.5078	0.6206	1																							
+ 0.0243	0.2644	0.2601	0.3058	0.6817	0.5360	1																						
+ -0.0397	0.2116	0.1988	0.2998	0.6597	0.4282	0.7694	1																					
+ -0.1302	0.1796	0.2075	0.2283	0.5085	0.3523	0.5542	0.6079	1																				
+ -0.0669	0.1417	0.2316	0.1868	0.3972	0.2795	0.4105	0.5127	0.5738	1																			
+ 0.0697	0.4373	0.4256	0.4424	0.4392	0.4540	0.3804	0.3810	0.4317	0.3711	1																		
+ -0.1020	0.3963	0.3945	0.3669	0.3474	0.4707	0.3509	0.3414	0.3674	0.2282	0.4813	1																	
+ 0.0529	0.3683	0.3565	0.4196	0.6034	0.5167	0.6277	0.5453	0.4184	0.3433	0.4331	0.3355	1																
+ 0.0350	0.3655	0.2344	0.3154	0.0672	0.1233	-0.0949	-0.0076	0.0264	0.0813	0.1860	0.2445	-0.0020	1															
+ 0.0798	0.3440	0.3004	0.3344	0.1498	0.1857	0.0719	0.1984	0.1245	0.1314	0.2779	0.3304	0.1748	0.3679	1														
+ -0.0740	-0.0883	-0.1146	-0.0869	0.1206	0.0318	0.2718	0.1359	0.1149	0.0716	-0.0485	-0.1072	0.1707	-0.2655	-0.2498	1													
+ -0.0505	-0.0816	-0.1363	-0.0796	0.1247	0.0651	0.3265	0.1562	0.1987	0.0769	-0.0141	-0.0020	0.1369	-0.2506	-0.1904	0.6695	1												
+ 0.0872	0.0274	0.0326	0.0575	0.1902	0.1314	0.2263	0.0748	0.0895	0.1161	0.1017	0.0111	0.1830	-0.0635	-0.0260	0.0801	0.1125	1											
+ 0.0800	0.0794	0.0625	0.0887	0.1185	0.0562	0.1059	-0.0582	0.0342	0.0960	0.0311	0.0705	0.0920	0.1265	0.0165	0.0529	0.0890	0.4825	1										
+ 0.0946	-0.0257	0.0113	0.0032	0.1118	-0.0070	0.1158	0.0514	0.0417	0.0948	0.1916	0.0191	0.1015	-0.1685	0.0075	-0.0490	0.0578	0.4196	0.2108	1									
+ -0.1371	-0.0225	-0.0404	-0.0051	0.2081	0.0809	0.3268	0.2558	0.2883	0.2301	0.0516	-0.0659	0.1627	-0.1424	-0.1455	0.1774	0.2302	0.3570	0.0307	0.3424	1								
+ -0.0528	-0.0963	-0.1314	-0.1195	0.0556	0.0115	0.1442	0.1476	0.1457	0.1212	-0.0173	-0.1689	0.0722	-0.1479	-0.1712	0.3615	0.3038	0.1975	0.0555	0.1138	0.3712	1							
+ 0.0011	-0.1229	-0.1681	-0.1130	0.0644	-0.0283	0.1633	0.1345	0.1550	0.0366	-0.0641	-0.2025	0.0094	-0.2649	-0.1754	0.4267	0.4554	0.1109	-0.0764	0.1249	0.3520	0.7179	1						
+ -0.0158	0.1034	0.0744	0.1766	0.2509	0.2041	0.2715	0.2908	0.1897	0.1765	0.1969	0.1625	0.3080	0.1145	0.1965	-0.0326	0.0528	0.0866	0.0396	0.1045	0.1023	0.0804	0.0157	1					
+ 0.0452	0.2102	0.1864	0.2266	0.6196	0.3973	0.7041	0.6528	0.5323	0.5327	0.4406	0.2886	0.6325	-0.0282	0.2157	0.1787	0.2552	0.2628	0.1701	0.2052	0.2531	0.1296	0.1232	0.3454	1				
+ 0.0565	0.5402	0.4523	0.4780	0.2431	0.2449	0.1645	0.2137	0.2308	0.2077	0.4577	0.3608	0.2650	0.5333	0.4489	-0.2203	-0.2386	0.0577	0.1211	0.0203	-0.0813	-0.1940	-0.3001	0.2372	0.2275	1			
+ 0.0550	0.5148	0.4637	0.5075	0.2533	0.3143	0.1811	0.2116	0.1665	0.1160	0.3906	0.2996	0.3151	0.4520	0.4922	-0.1560	-0.1598	0.0476	0.0427	0.0046	-0.1268	-0.1849	-0.2387	0.2266	0.2473	0.7373	1		
+ -0.0395	0.1749	0.1324	0.0820	0.2313	0.1672	0.1661	0.1067	0.1991	0.1955	0.1963	0.0882	0.2170	0.2267	0.1041	0.0130	-0.0787	0.0335	0.0423	0.0233	0.0366	-0.0052	-0.0182	0.1285	0.2915	0.3028	0.3322	1	
+ 0.0136	0.3235	0.2435	0.2799	0.2278	0.1413	0.2519	0.2370	0.2243	0.3346	0.3878	0.2037	0.2517	0.2857	0.3069	-0.1169	-0.0405	0.0365	0.0899	0.0244	0.0641	-0.0508	-0.0999	0.2587	0.3523	0.5784	0.5154	0.4587	1
+ -0.0223	0.1699	0.0967	0.1028	-0.0215	0.0644	-0.1618	-0.0379	-0.0546	0.0132	0.1376	0.2944	-0.0569	0.4203	0.2918	-0.4292	-0.3440	-0.0949	0.0559	-0.0610	-0.1903	-0.2953	-0.5121	0.0135	0.0103	0.3169	0.2318	0.1252	0.1420	1
+ Labels ENC	PRESTIGF	CUOTAF	FIDECLIF	GESTIONF	CONOCIMF	ACTITUDF	INTERESF	PAGOF	MGPRODF	ROTPRODF	SERVF	CONFIAF	DEP1D	DEP2D	CPREC	CPLAZOP	CREPARTO	CTPTE	CSTOCKS	CSURTIDO	CPROMOC	CPVP	SATISF1	SATISF2	RTDOVTAS	RTDOCLI	RTDOCTES	RTDOBENE	EXCLSUR2
+  
+  Note: Closing #include file 1
+  
+ Select ACTITUDF INTERESF PAGOF MGPRODF PRESTIGF
+        FIDECLIF CUOTAF RTDOVTAS RTDOCLI RTDOBENE SATISF1
+        SATISF2 ;
+ #define NumManifest 30
+ 
+  Begin Matrices;
+   S  Symm  16 16
+   A  Full  16 16
+   F  Full  12 16
+   I  Iden  16 16
+  End Matrices;
+ 
+  Matrix S
+   0.377595
+   0 0.280326
+   0 0 0.472765
+   0 0 0 0.596361
+   0 0 0 0 0.311982
+   0 0 0 0 0 0.353148
+   0 0 0 0 0 0 0.355241
+   0 0 0 0 0 0 0 0.20846
+   0 0 0 0 0 0 0 0 0.298909
+   0 0 0 0 0 0 0 0 0 0.607242
+   0 0 0 0 0 0 0 0 0 0 0.94019
+   0 0 0 0 0 0 0 0 0 0 0 0.247042
+   0 0 0 0 0 0 0 0 0 0 0 0 1
+   0 0 0 0 0 0 0 0 0 0 0 0 0.5 1
+   0 0 0 0 0 0 0 0 0 0 0 0 0.27 0.82 1
+   0 0 0 0 0 0 0 0 0 0 0 0 0.64 0.32 0.31 1
+  Specify S
+   1
+   0 2
+   0 0 3
+   0 0 0 4
+   0 0 0 0 5
+   0 0 0 0 0 6
+   0 0 0 0 0 0 7
+   0 0 0 0 0 0 0 8
+   0 0 0 0 0 0 0 0 9
+   0 0 0 0 0 0 0 0 0 10
+   0 0 0 0 0 0 0 0 0 0 11
+   0 0 0 0 0 0 0 0 0 0 0 12
+   0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  Label Row S
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  STRENGTH  OF  SB  SUPPLIER'S
+  Label Col S
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  STRENGTH  OF  SB  SUPPLIER'S
+ 
+ 
+ 
+  Matrix A
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0.67 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0.84 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0.88 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0.77 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0.75 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0.78 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0.76 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.88
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.82
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.59
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.89 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.89 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  Specify A
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  Label Row A
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  STRENGTH  OF  SB  SUPPLIER'S
+  Label Col A
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  STRENGTH  OF  SB  SUPPLIER'S
+ 
+ 
+ 
+  Matrix F
+   1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+  Specify F
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+   0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  Label Row F
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2
+  Label Col F
+   ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  STRENGTH  OF  SB  SUPPLIER'S
+ 
+ 
+ 
+ 
+ 
+  Begin Algebra;
+  End Algebra;
+ 
+  Covariance F&((I-A)~&S);
+  Options RSidual
+  Options nDecimals=0
+  Options CI=90
+ End Group;
+  
+  
+  PARAMETER SPECIFICATIONS
+  
+  GROUP NUMBER: 1
+  
+MxPathDiagram1                                                                                                                  
+  
+  MATRIX A
+ This is a FULL matrix of order   16 by   16
+  It has no free parameters specified
+  
+  MATRIX F
+ This is a FULL matrix of order   12 by   16
+  It has no free parameters specified
+  
+  MATRIX I
+ This is an IDENTITY matrix of order   16 by   16
+  
+  MATRIX S
+ This is a SYMMETRIC matrix of order   16 by   16
+            ACTITUDFINTERESF   PAGOF MGPRODFPRESTIGFFIDECLIF  CUOTAFRTDOVTAS
+   ACTITUDF       1
+   INTERESF       0       2
+      PAGOF       0       0       3
+    MGPRODF       0       0       0       4
+   PRESTIGF       0       0       0       0       5
+   FIDECLIF       0       0       0       0       0       6
+     CUOTAF       0       0       0       0       0       0       7
+   RTDOVTAS       0       0       0       0       0       0       0       8
+    RTDOCLI       0       0       0       0       0       0       0       0
+   RTDOBENE       0       0       0       0       0       0       0       0
+    SATISF1       0       0       0       0       0       0       0       0
+    SATISF2       0       0       0       0       0       0       0       0
+   STRENGTH       0       0       0       0       0       0       0       0
+         OF       0       0       0       0       0       0       0       0
+         SB       0       0       0       0       0       0       0       0
+ SUPPLIER'S       0       0       0       0       0       0       0       0
+ 
+             RTDOCLIRTDOBENE SATISF1 SATISF2STRENGTH      OF      SBSUPPLIER
+   ACTITUDF
+   INTERESF
+      PAGOF
+    MGPRODF
+   PRESTIGF
+   FIDECLIF
+     CUOTAF
+   RTDOVTAS
+    RTDOCLI       9
+   RTDOBENE       0      10
+    SATISF1       0       0      11
+    SATISF2       0       0       0      12
+   STRENGTH       0       0       0       0       0
+         OF       0       0       0       0       0       0
+         SB       0       0       0       0       0       0       0
+ SUPPLIER'S       0       0       0       0       0       0       0       0
+  
+  Mx starting optimization; number of parameters =  12
+  
+  
+  MX PARAMETER ESTIMATES
+  
+  GROUP NUMBER: 1
+  
+MxPathDiagram1                                                                                                                  
+  
+  MATRIX A
+ This is a FULL matrix of order   16 by   16
+            ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+   ACTITUDF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   INTERESF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+      PAGOF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    MGPRODF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   PRESTIGF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   FIDECLIF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+     CUOTAF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   RTDOVTAS     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    RTDOCLI     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   RTDOBENE     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    SATISF1     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    SATISF2     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   STRENGTH     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+         OF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+         SB     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ SUPPLIER'S     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ 
+            SATISFSTRENG    OF    SBSUPPLI
+   ACTITUDF     0.    0.    1.    0.    0.
+   INTERESF     0.    0.    1.    0.    0.
+      PAGOF     0.    0.    1.    0.    0.
+    MGPRODF     0.    0.    1.    0.    0.
+   PRESTIGF     0.    1.    0.    0.    0.
+   FIDECLIF     0.    1.    0.    0.    0.
+     CUOTAF     0.    1.    0.    0.    0.
+   RTDOVTAS     0.    0.    0.    0.    1.
+    RTDOCLI     0.    0.    0.    0.    1.
+   RTDOBENE     0.    0.    0.    0.    1.
+    SATISF1     0.    0.    0.    1.    0.
+    SATISF2     0.    0.    0.    1.    0.
+   STRENGTH     0.    0.    0.    0.    0.
+         OF     0.    0.    0.    0.    0.
+         SB     0.    0.    0.    0.    0.
+ SUPPLIER'S     0.    0.    0.    0.    0.
+  
+  MATRIX F
+ This is a FULL matrix of order   12 by   16
+          ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+ ACTITUDF     1.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ INTERESF     0.    1.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+    PAGOF     0.    0.    1.    0.    0.    0.    0.    0.    0.    0.    0.
+  MGPRODF     0.    0.    0.    1.    0.    0.    0.    0.    0.    0.    0.
+ PRESTIGF     0.    0.    0.    0.    1.    0.    0.    0.    0.    0.    0.
+ FIDECLIF     0.    0.    0.    0.    0.    1.    0.    0.    0.    0.    0.
+   CUOTAF     0.    0.    0.    0.    0.    0.    1.    0.    0.    0.    0.
+ RTDOVTAS     0.    0.    0.    0.    0.    0.    0.    1.    0.    0.    0.
+  RTDOCLI     0.    0.    0.    0.    0.    0.    0.    0.    1.    0.    0.
+ RTDOBENE     0.    0.    0.    0.    0.    0.    0.    0.    0.    1.    0.
+  SATISF1     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    1.
+  SATISF2     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ 
+          SATISFSTRENG    OF    SBSUPPLI
+ ACTITUDF     0.    0.    0.    0.    0.
+ INTERESF     0.    0.    0.    0.    0.
+    PAGOF     0.    0.    0.    0.    0.
+  MGPRODF     0.    0.    0.    0.    0.
+ PRESTIGF     0.    0.    0.    0.    0.
+ FIDECLIF     0.    0.    0.    0.    0.
+   CUOTAF     0.    0.    0.    0.    0.
+ RTDOVTAS     0.    0.    0.    0.    0.
+  RTDOCLI     0.    0.    0.    0.    0.
+ RTDOBENE     0.    0.    0.    0.    0.
+  SATISF1     0.    0.    0.    0.    0.
+  SATISF2     1.    0.    0.    0.    0.
+  
+  MATRIX I
+ This is an IDENTITY matrix of order   16 by   16
+  
+  MATRIX S
+ This is a SYMMETRIC matrix of order   16 by   16
+            ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+   ACTITUDF     0.
+   INTERESF     0.    0.
+      PAGOF     0.    0.    0.
+    MGPRODF     0.    0.    0.    1.
+   PRESTIGF     0.    0.    0.    0.    0.
+   FIDECLIF     0.    0.    0.    0.    0.    0.
+     CUOTAF     0.    0.    0.    0.    0.    0.    0.
+   RTDOVTAS     0.    0.    0.    0.    0.    0.    0.    0.
+    RTDOCLI     0.    0.    0.    0.    0.    0.    0.    0.    0.
+   RTDOBENE     0.    0.    0.    0.    0.    0.    0.    0.    0.    1.
+    SATISF1     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    1.
+    SATISF2     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+   STRENGTH     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+         OF     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+         SB     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ SUPPLIER'S     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ 
+            SATISFSTRENG    OF    SBSUPPLI
+   ACTITUDF
+   INTERESF
+      PAGOF
+    MGPRODF
+   PRESTIGF
+   FIDECLIF
+     CUOTAF
+   RTDOVTAS
+    RTDOCLI
+   RTDOBENE
+    SATISF1
+    SATISF2     0.
+   STRENGTH     0.    1.
+         OF     0.    1.    1.
+         SB     0.    0.    1.    1.
+ SUPPLIER'S     0.    1.    0.    0.    1.
+  
+  OBSERVED COVARIANCE MATRIX
+          ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+ ACTITUDF     1.
+ INTERESF     1.    1.
+    PAGOF     1.    1.    1.
+  MGPRODF     0.    1.    1.    1.
+ PRESTIGF     0.    0.    0.    0.    1.
+ FIDECLIF     0.    0.    0.    0.    1.    1.
+   CUOTAF     0.    0.    0.    0.    1.    1.    1.
+ RTDOVTAS     0.    0.    0.    0.    1.    0.    0.    1.
+  RTDOCLI     0.    0.    0.    0.    1.    1.    0.    1.    1.
+ RTDOBENE     0.    0.    0.    0.    0.    0.    0.    1.    1.    1.
+  SATISF1     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    1.
+  SATISF2     1.    1.    1.    1.    0.    0.    0.    0.    0.    0.    0.
+ 
+          SATISF
+ ACTITUDF
+ INTERESF
+    PAGOF
+  MGPRODF
+ PRESTIGF
+ FIDECLIF
+   CUOTAF
+ RTDOVTAS
+  RTDOCLI
+ RTDOBENE
+  SATISF1
+  SATISF2     1.
+  
+  
+  EXPECTED COVARIANCE MATRIX
+          ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+ ACTITUDF     1.
+ INTERESF     1.    1.
+    PAGOF     1.    1.    1.
+  MGPRODF     1.    1.    1.    1.
+ PRESTIGF     0.    0.    0.    0.    1.
+ FIDECLIF     0.    0.    0.    0.    1.    1.
+   CUOTAF     0.    0.    0.    0.    1.    1.    1.
+ RTDOVTAS     0.    0.    0.    0.    0.    0.    0.    1.
+  RTDOCLI     0.    0.    0.    0.    0.    0.    0.    1.    1.
+ RTDOBENE     0.    0.    0.    0.    0.    0.    0.    1.    0.    1.
+  SATISF1     0.    1.    1.    1.    0.    0.    0.    0.    0.    0.    2.
+  SATISF2     0.    1.    1.    1.    0.    0.    0.    0.    0.    0.    1.
+ 
+          SATISF
+ ACTITUDF
+ INTERESF
+    PAGOF
+  MGPRODF
+ PRESTIGF
+ FIDECLIF
+   CUOTAF
+ RTDOVTAS
+  RTDOCLI
+ RTDOBENE
+  SATISF1
+  SATISF2     1.
+  
+  RESIDUAL MATRIX
+          ACTITUINTERE PAGOFMGPRODPRESTIFIDECLCUOTAFRTDOVTRTDOCLRTDOBESATISF
+ ACTITUDF     0.
+ INTERESF     0.    0.
+    PAGOF     0.    0.    0.
+  MGPRODF     0.    0.    0.    0.
+ PRESTIGF     0.    0.    0.    0.    0.
+ FIDECLIF     0.    0.    0.    0.    0.    0.
+   CUOTAF     0.    0.    0.    0.    0.    0.    0.
+ RTDOVTAS     0.    0.    0.    0.    0.    0.    0.    0.
+  RTDOCLI     0.    0.    0.    0.    0.    0.    0.    0.    0.
+ RTDOBENE     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+  SATISF1     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.   -1.
+  SATISF2     0.    0.    0.    0.    0.    0.    0.    0.    0.    0.    0.
+ 
+          SATISF
+ ACTITUDF
+ INTERESF
+    PAGOF
+  MGPRODF
+ PRESTIGF
+ FIDECLIF
+   CUOTAF
+ RTDOVTAS
+  RTDOCLI
+ RTDOBENE
+  SATISF1
+  SATISF2     0.
+  
+ Function value of this group:   183.
+  Where the fit function is Maximum Likelihood                 
+  
+ Your model has   12 estimated parameters and     78 Observed statistics
+  
+ Chi-squared fit of model >>>>>>>   183.121
+ Degrees of freedom >>>>>>>>>>>>>        66
+ Probability >>>>>>>>>>>>>>>>>>>>     0.000
+ Akaike's Information Criterion >    51.121
+ RMSEA >>>>>>>>>>>>>>>>>>>>>>>>>>     0.101
+  
+   I had some trouble calculating them, but perhaps
+   90% confidence intervals on Chi-squared could be:
+   from 146.583 to 227.315
+   90% confidence intervals on AIC:
+   from  14.583 to  95.315
+   90% confidence intervals on RMSEA:
+   from   0.084 to   0.118
+  
+  
+  
+  
+  
+  
+ This problem used  0.2% of my workspace
+  
+ Task                     Time elapsed (DD:HH:MM:SS)
+ Reading script & data      0: 0: 0: 0.00
+ Execution                  0: 0: 0: 0.01
+ TOTAL                      0: 0: 0: 0.01
+  
+ Total number of warnings issued: 0
+ ______________________________________________________________________________
+   
+ 
+ 

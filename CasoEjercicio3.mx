@@ -1,0 +1,111 @@
+!Mx Frontend Auto-generated Script. ver 1.0
+!Created at 18:25:10 on 16 Dec 2020 by 
+!SmartUser
+! -------------- Group ID 1----------------
+MxPathDiagram1
+NGroups=1
+#include C:\aaa\IglesiasVazquez2001_TOTAL_MX (1).dat
+Select ACTITUDF INTERESF PAGOF MGPRODF PRESTIGF 
+       FIDECLIF CUOTAF RTDOVTAS RTDOCLI RTDOBENE SATISF1 
+       SATISF2 ;
+#define NumManifest 12
+
+ Begin Matrices;
+  S  Symm  16 16
+  A  Full  16 16
+  F  Full  12 16
+  I  Iden  16 16
+ End Matrices;
+
+ Matrix S
+  1 
+  0 1 
+  0 0 1 
+  0 0 0 1 
+  0 0 0 0 1 
+  0 0 0 0 0 1 
+  0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 0 0 0 0 1 
+  0 0 0 0 0 0 0 0 0 0 0 0 0.5 1 
+  0 0 0 0 0 0 0 0 0 0 0 0 0.27 0.82 1 
+  0 0 0 0 0 0 0 0 0 0 0 0 0.64 0.32 0.31 1
+ Specify S
+  1 
+  0 2 
+  0 0 3 
+  0 0 0 4 
+  0 0 0 0 5 
+  0 0 0 0 0 6 
+  0 0 0 0 0 0 7 
+  0 0 0 0 0 0 0 8 
+  0 0 0 0 0 0 0 0 9 
+  0 0 0 0 0 0 0 0 0 10 
+  0 0 0 0 0 0 0 0 0 0 11 
+  0 0 0 0 0 0 0 0 0 0 0 12 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ Label Row S
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  Strength of SB  Supplier's attitude to. Rel.  Distr. Satisfaction  Ec. Outcomes
+ Label Col S
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  Strength of SB  Supplier's attitude to. Rel.  Distr. Satisfaction  Ec. Outcomes
+
+
+
+ Matrix A
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0.67 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0.84 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0.88 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0.77 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0.75 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0.78 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0.76 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.88
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.82
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.59
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.89 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.89 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+ Label Row A
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  Strength of SB  Supplier's attitude to. Rel.  Distr. Satisfaction  Ec. Outcomes
+ Label Col A
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  Strength of SB  Supplier's attitude to. Rel.  Distr. Satisfaction  Ec. Outcomes
+
+
+
+ Matrix F
+  1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0
+  0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0
+ Label Row F
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2
+ Label Col F
+  ACTITUDF  INTERESF  PAGOF  MGPRODF  PRESTIGF  FIDECLIF  CUOTAF  RTDOVTAS  RTDOCLI  RTDOBENE  SATISF1  SATISF2  Strength of SB  Supplier's attitude to. Rel.  Distr. Satisfaction  Ec. Outcomes
+
+
+
+
+
+ Covariance  F & ((I - A)~ & S);
+ Options RSidual
+ Options CI=90
+End Group;
+
